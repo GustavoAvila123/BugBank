@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocAutomacao", "PocAutomacao.csproj", "{57995C1A-5E02-44B2-A075-A0D411CDE6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57995C1A-5E02-44B2-A075-A0D411CDE6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57995C1A-5E02-44B2-A075-A0D411CDE6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57995C1A-5E02-44B2-A075-A0D411CDE6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57995C1A-5E02-44B2-A075-A0D411CDE6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D76D1D-BB17-48DF-9F92-94492A3A4B00}
+	EndGlobalSection
+EndGlobal
